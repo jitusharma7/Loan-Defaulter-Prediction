@@ -12,7 +12,7 @@ The aim of project is to build a higher accurate model and  identify the key fac
  
   
 ## Overview
- Loan default occurs when a borrower fails to pay back a debt according to the initial arrangement.. The higher loan defaulter rate is shown as failure of bank to identify eligible customer for loan.
+ Loan default occurs when a borrower fails to pay back a debt according to the initial arrangement. The higher loan defaulter rate is shown as failure of bank to identify eligible customer for loan.
 
 **Impact of Loan Default  on Business**
 Banks mainly make money from the interest they charge on loans, and when they are unable to collect the owed interest payments from NPLs, it means that they will have less money available to create new loans and pay operating costs. When the percentage of non-performing loans increases, the lender’s stock price will also go down. The NPLs a bank holds in its books, the less attractive it is for potential investors because its future profitability will suffer if the lender will not earn an income from its credit business.
@@ -49,7 +49,7 @@ Banks mainly make money from the interest they charge on loans, and when they ar
 ## Model_Building
 * Random Forest  performs better than other models.
 * It has a higher accuracy of 84.62%.
-* False postive is almost conteibute to the wrong prediction.
+* False postive is almost contribute 90% of total  wrong prediction.
 * Rest of the models have verypoor performance in terms of predicting true negative values
 * True negative values are crucialbecause it is important to know who will be probable loan defaulter.
 
